@@ -5,7 +5,6 @@
 
 ## Stats :
 
-[![João GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoadsobral&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoadsobral&layout=donut&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que venho estudando :
