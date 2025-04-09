@@ -1,10 +1,6 @@
 # Hello World!
 I am a Backend Developer with a strong interest in programming and continuous learning.
 
-## 🌐 Contacts:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3o-sobral-303041282/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joaosobraldev@gmail.com) 
-
 # 💻 Tech Stack:
 
 ### 👨‍💻 Programming Languages:
