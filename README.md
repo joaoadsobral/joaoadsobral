@@ -1,13 +1,11 @@
 <div align="center">
 
-# 👋Hello World!
+## 👋Hello World!
 I am a Backend Developer with a strong interest in programming and continuous learning.
 
 </div>
 
 ---
-
-<div align="center">
 
 # 💻 Tech Stack:
 
@@ -28,9 +26,6 @@ I am a Backend Developer with a strong interest in programming and continuous le
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
-</div>
-
----
 
 <div align="center">
 
@@ -44,8 +39,6 @@ I am a Backend Developer with a strong interest in programming and continuous le
 </table>
 
 </div>
-
----
 
 <div align="center">
 
